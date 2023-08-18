@@ -1,1 +1,1 @@
-# avideh-magezin sample UI
+# avideh-magazine sample UI
